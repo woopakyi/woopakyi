@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hebe Woo (Hebe)
+# 👋 Hi, I'm Woo Pak Yi (Hebe)
 
 I'm a Year 3 Computer Science student at Hong Kong Baptist University, majoring in Artificial Intelligence. I'm passionate about AI, machine learning, software engineering, and building innovative applications that solve real-world problems. Currently, I'm exploring deep learning models.
 
