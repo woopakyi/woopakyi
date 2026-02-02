@@ -12,12 +12,12 @@ I'm a Year 3 Computer Science student at Hong Kong Baptist University, majoring 
 - **Developer Tools**: Google Colab, Jupyter Notebook, IntelliJ IDEA, VS Code, GitHub, Node.js, MongoDB, Blender  
 
 ## 🛠️ Recent Projects
-### [Low-Light Image Enhancement AI Model](https://github.com/woopakyi/low-light-enhancement)  
+### [Low-Light Image Enhancement AI Model](https://github.com/woopakyi/Low-Light-Image-Enhancement)  
 
 Developed a deep learning system to enhance images in poor lighting, improving visibility and color fidelity.  
 - Developed a semi-supervised U-Net-inspired CNN based on Zero-DCE++ using the paired LOL dataset, and integrated MobileSAM for subject segmentation to apply spotlighting and bokeh effects simulating professional photography.
 
-### [Full Stack Online Library System](https://github.com/woopakyi/online-library-system)  
+### [Full Stack Online Library System](https://github.com/woopakyi/online-library-web-express-vue)  
 A comprehensive library management system with user authentication and book handling features.  
 - Built with Express.js (backend) and Vue.js (frontend), featuring JWT authentication, role-based access control, RESTful APIs, protected routes, borrowing workflows, admin/user UIs, data validation, error handling, and Git version control.
 
